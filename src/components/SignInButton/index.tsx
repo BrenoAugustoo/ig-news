@@ -30,7 +30,7 @@ export function SignInButton ( ) {
       
     <FaGithub color="#EBA417"/>
 
-    Sign in With Github
+    Sign in with Github
 
     </button>
   )
